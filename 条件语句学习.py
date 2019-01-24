@@ -46,7 +46,4 @@ if user is not None and itcaht_user_name !='':
 
 itchat.logout()    #强制退出登录   
   
-# 作者：天府云创 
-# 来源：CSDN 
 # 原文：https://blog.csdn.net/enweitech/article/details/79585043 
-# 版权声明：本文为博主原创文章，转载请附上博文链接！
